@@ -22,12 +22,13 @@ La aplicación permite mostrar una galería de imágenes de animales aleatorios.
 
 ## 📂 Estructura del proyecto
 
+```
 src/
 ├── App.jsx
 ├── AnimalShow.jsx
 ├── index.css
-└── main.jsx
-
+└── main.jsx**
+```
 
 ## 🧠 Aprendizajes clave
 
@@ -42,4 +43,4 @@ src/
 ```bash
 npm install
 npm run dev
----
+```
